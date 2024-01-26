@@ -1,4 +1,4 @@
-Certainly, here's an updated `readme.md` based on your provided code:
+
 
 # PDF to Text Converter
 
@@ -29,9 +29,3 @@ This Python script is designed to convert a PDF file into a plain text (.txt) fi
 4. **Extract Text**: After selecting the PDF file, click the "Extract Text" button to initiate the conversion process. The script will extract the text from the PDF file and display it in the text box on the GUI.
 
 5. **View Extracted Text**: The extracted text will be displayed in the text box on the GUI. You can read and review the text content.
-
-## Author
-
-- [pi1814](https://github.com/pi1814)
-
-This script simplifies the process of converting PDF files to text. If you encounter any issues or have suggestions for improvements, please don't hesitate to reach out to the author on their GitHub page. Feel free to customize and use this script for your PDF to text conversion needs.
